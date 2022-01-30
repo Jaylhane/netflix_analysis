@@ -1,0 +1,13 @@
+name: Netflix_Analysis
+title: Netflix_Analysis
+username:
+account: jaylhane
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5541607
+bundleId: 5523881
+url: https://jaylhane.shinyapps.io/Netflix_Analysis/
+when: 1643559754.06859
+lastSyncTime: 1643559754.06859
+asMultiple: FALSE
+asStatic: FALSE
